@@ -7,6 +7,8 @@ Key Features:
 - Create and manage log-ins 
 - Create, edit and delete student records
 - Export student information as XML
+- Any database changes recorded in system log file
+- Export log file as XML
 
 Technologies: 
 
